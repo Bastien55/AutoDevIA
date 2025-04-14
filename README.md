@@ -5,4 +5,4 @@ des issues associées.
 
 # Pré-requis :
 - Un compte Github avec un access token permettant la création de repos et d'issues
-
+- A la racine du projet rajouté un .env avec cette clé : NVAPI_KEY : [votre clé NVDIA]
