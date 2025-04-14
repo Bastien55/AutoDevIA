@@ -1,0 +1,10 @@
+langchain~=0.3.21
+langchain-core
+langchain_community
+langgraph~=0.3.18
+langchain-nvidia-ai-endpoints
+python-dotenv~=1.0.1
+requests~=2.32.3
+Pillow~=11.1.0
+colorama~=0.4.6
+pydantic~=2.10.6
